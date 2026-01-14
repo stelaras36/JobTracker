@@ -25,7 +25,13 @@ JobTracker helps you organize and track your job applications in a clean, simple
 - **Storage:** Android DataStore (Preferences)
 - **Tools:** Android Studio, GitHub
 
----
+## How it works (quick)
+- Add a job application with title, company, and status
+- Update status from the job card (Wishlist → Applied → Interview → Offer → Rejected)
+- Filter the list by status
+- Search by title or company
+- Data is stored locally using Android DataStore (Preferences)
+
 
 ## Screenshots
 
