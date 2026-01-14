@@ -32,6 +32,14 @@ JobTracker helps you organize and track your job applications in a clean, simple
 - Search by title or company
 - Data is stored locally using Android DataStore (Preferences)
 
+## ⬇️ Download
+
+You can download and test the latest APK from the GitHub Releases page:
+
+👉 **[Download JobTracker v1.0.0 APK](https://github.com/stelaras36/JobTracker/releases/download/v1.0.0/app-debug.apk)**
+
+> Note: This is a debug build intended for demonstration and portfolio purposes.
+
 
 ## Screenshots
 
