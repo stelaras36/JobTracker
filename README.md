@@ -27,8 +27,7 @@ JobTracker helps you organize and track your job applications in a clean, simple
 
 ---
 
-## 📱 Screenshots
-
+## Screenshots
 
 ### Add Job & Job List
 ![Add Job](screenshots/add_job.png)
@@ -48,6 +47,7 @@ JobTracker helps you organize and track your job applications in a clean, simple
 
 ### Empty State (Rejected filter)
 ![Rejected Empty](screenshots/empty_rejected.png)
+
 
 
 > Tip: Add screenshots from the emulator later to showcase the UI.
