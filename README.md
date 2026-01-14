@@ -29,7 +29,19 @@ JobTracker helps you organize and track your job applications in a clean, simple
 
 ## 📱 Screenshots
 
-_(Screenshots will be added here)_
+### Add Job & Job List
+![Add Job](.screenshots/Στιγμιότυπο οθόνης 2026-01-14 192359.png)
+
+### Status Update (Applied → Interview → Offer)
+![Status Interview](.screenshots/Στιγμιότυπο οθόνης 2026-01-14 192439.png)
+![Status Offer](.screenshots/Στιγμιότυπο οθόνης 2026-01-14 192452.png)
+
+### Filter by Status
+![Filter Offer](.screenshots/Στιγμιότυπο οθόνης 2026-01-14 192502.png)
+
+### Empty State (Rejected filter)
+![Rejected Empty](.screenshots/Στιγμιότυπο οθόνης 2026-01-14 192514.png)
+
 
 > Tip: Add screenshots from the emulator later to showcase the UI.
 
